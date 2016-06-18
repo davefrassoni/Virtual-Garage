@@ -1497,7 +1497,7 @@ class VirtGarageRscButtonMenuOK
 		1
 	};
 };
-class RscButtonMenuCancel
+class VirtGarageRscButtonMenuCancel
 {
 	idc = 2;
 	shortcuts[] =
